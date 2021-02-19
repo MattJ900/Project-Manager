@@ -3,5 +3,11 @@
 
 /* Button */
 
+.container>* {
+    color: orange
+}
 
+.btn {
+    color: orange;
+}
 /* Display */
