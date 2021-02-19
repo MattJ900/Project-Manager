@@ -4,6 +4,7 @@
 //button popup
 
 
+
 //display
 // {
 //     name: "",
@@ -48,3 +49,12 @@ console.log(testProjects);
 console.log(moment("12/30/2021", "MM/DD/YYYY").dayOfYear());
 
 displayProjects();
+
+// var button = document.querySelector("btn");  
+// button.addEventListener("click");
+// console.log("click");
+
+
+
+// function btn()
+
